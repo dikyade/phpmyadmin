@@ -1,0 +1,13 @@
+1.webmin
+*NB Server harus terhubung internet dan sudah update repo
+login user root
+
+#apt install wget
+#wget -O- https://gist.githubusercontent.com/dikyade/978614deff33998a5748b640903931dd/raw/d35cf44e423b5c97f10545bd408c7221468f2694/sh | sh
+
+2.phpMyAdmin
+*NB Server harus terhubung internet dan sudah update repo
+login user root
+
+#apt install wget
+#wget -O- https://gist.githubusercontent.com/dikyade/c551d2f2d383f797b99cff547bb08595/raw/80e1970f36d04d23aa4a0f8e5753fdc9bae4944b/php | sh
